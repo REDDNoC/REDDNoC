@@ -1,35 +1,40 @@
-# 👋 Hi, I’m @REDDNoC
+# 👋 Hi, I’m @REDDNoC 
 
 ### 🧠 About Me
-Crypto Enthusiast, Developer, and a Founder behind the **Cryptobeam** and **DAMA Coin** ecosystems — building next-generation blockchain infrastructure for institutional payments, cross-border settlements, and DeFi innovation.
+Crypto builder, developer, and founder behind the **Cryptobeam** and **DAMA Coin** ecosystems — focused on next-generation infrastructure for institutional payments, cross-border settlements, and DeFi rails.
 
 ### 💡 What I’m Working On
-- Developing an **Enterprise Crypto Exchange Ecosystem** leveraging **OpenHFT**, **CCXT**, and **FIX Messaging Protocols**.
-- Architecting **DAMA**, an ISO 20022–compliant digital asset protocol designed for interoperability, compliance, and post-quantum resilience.
-- Advancing blockchain solutions for **Cross-Chain Interoperability**, **Tokenized Markets**, and **Institutional-Grade Settlements**.
+- Designing an **enterprise crypto exchange stack** with low-latency matching, smart routing, and multi-venue connectivity.
+- Architecting **DAMA**, a digital asset protocol oriented around interoperability, compliance, and long-term resilience.
+- Exploring infrastructure for **cross-chain interoperability**, **tokenized markets**, and **institutional-grade settlements**.
 
 ### 👀 Interests
-Agent Swarms · Cryptocurrency Exchanges · CodeOps · Blockchain Interoperability · ISO 20022 Messaging · AI & LLM Integration · DeFi · NFTs · Quantitative Trading Systems
+Agent swarms · Cryptocurrency exchanges · CodeOps · Blockchain interoperability · ISO 20022-style messaging · AI & LLM integration · DeFi · NFTs · Quant trading systems
 
 ### 🌱 Currently Learning
-Python · Data Science · Machine Learning · Artificial Intelligence · Large Language Models (LLMs) · Smart Contract Security
-everything about liquidity, AMM's, dark pools, Master market-making - liquidity and token launch
+Python · Data science · Machine learning · Artificial intelligence · Large language models (LLMs) · Smart contract security · Liquidity design · AMMs · Dark pools · Market-making and token launch mechanics
 
 ### 🧩 Technical Focus
-- Backend Architecture for High-Frequency Trading
-- Market Connectivity (FIX / REST / WebSocket)
-- Blockchain Infrastructure for Compliance and Liquidity
-- Integration with **Plaid**, **Cross River Bank**, **Fireblocks**, **Chainalysis**, and **Auth0**
+- Backend architecture for trading and market infrastructure
+- Market connectivity (API design for FIX-style, REST, and WebSocket flows)
+- Blockchain infrastructure for compliance, auditability, and liquidity
+- High-level integrations with banking, custody, KYC/AML, and auth providers (intentionally non-specific)
 
 ### 🧠 Philosophy
 > *Bridging institutional finance and decentralized networks through compliant innovation.*
 
 ### 📫 Connect With Me
 🔗 [Linktree – Official DAMA Coin](https://linktr.ee/officialdamacoin)  
-💬 Discord: [Join Our Server](http://discord.gg/VWThUSFr) (We're currently looking for a Ecosystem Community Manager) 
+💬 Discord: [Join Our Server](http://discord.gg/VWThUSFr) 
 
 ---
-update: refreshed GitHub profile with Cryptobeam & DAMA ecosystem info
+
+<!---
+REDDNoC/REDDNoC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+
 
 <!---
 REDDNoC/REDDNoC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
