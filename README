@@ -1,37 +1,32 @@
-# 👋 Hi, I’m @REDDNoC
+# Hi, I’m @REDDNoC
 
-### 🧠 About Me
-Crypto Enthusiast, Developer, and a Founder behind the **Cryptobeam** and **DAMA Coin** ecosystems — building next-generation blockchain infrastructure for institutional payments, cross-border settlements, and DeFi innovation.
+## Profile
+Founder and technical lead behind **Cryptobeam** and the **DAMA** ecosystem. My work centers on building regulated-market infrastructure for digital assets—exchange-grade trading systems, institutional payments, and cross-border settlement workflows—with a focus on controls, auditability, and operational resilience.
 
-### 💡 What I’m Working On
-- Developing an **Enterprise Crypto Exchange Ecosystem** leveraging **OpenHFT**, **CCXT**, and **FIX Messaging Protocols**.
-- Architecting **DAMA**, an ISO 20022–compliant digital asset protocol designed for interoperability, compliance, and post-quantum resilience.
-- Advancing blockchain solutions for **Cross-Chain Interoperability**, **Tokenized Markets**, and **Institutional-Grade Settlements**.
+## Current work
+- **Institutional exchange architecture**: performance-oriented backend services, market connectivity, and production-grade operational tooling for a multi-venue digital asset marketplace.
+- **DAMA Protocol**: an **ISO 20022–aligned** digital asset protocol designed for interoperability, compliance-by-design, and post-quantum forward security.
+- **Settlement and tokenized market infrastructure**: cross-chain messaging and asset portability, with an emphasis on risk management, transparency, and verifiable recordkeeping.
 
-### 👀 Interests
-Agent Swarms · Cryptocurrency Exchanges · CodeOps · Blockchain Interoperability · ISO 20022 Messaging · AI & LLM Integration · DeFi · NFTs · Quantitative Trading Systems
+## Technical focus areas
+- Low-latency backend systems and event-driven architectures for trading and settlement
+- Market connectivity and integration: **FIX**, REST, WebSocket; venue connectivity patterns and reliability engineering
+- Compliance-grade ledgering and observability: audit trails, policy enforcement, and reporting primitives
+- Partner integrations: **Plaid**, sponsor banking (e.g., **Customers Bank**), **Fireblocks**, **Chainalysis**, **Auth0**
 
-### 🌱 Currently Learning
-Python · Data Science · Machine Learning · Artificial Intelligence · Large Language Models (LLMs) · Smart Contract Security
-everything about liquidity, AMM's, dark pools, Master market-making - liquidity and token launch
+## Interests
+Market infrastructure · Payments and settlement · Tokenized markets · ISO 20022 messaging · Interoperability · Risk and controls · Quantitative trading systems · AI/LLM-assisted operations
 
-### 🧩 Technical Focus
-- Backend Architecture for High-Frequency Trading
-- Market Connectivity (FIX / REST / WebSocket)
-- Blockchain Infrastructure for Compliance and Liquidity
-- Integration with **Plaid**, **Cross River Bank**, **Fireblocks**, **Chainalysis**, and **Auth0**
+## Currently developing expertise
+Python · Data engineering · Machine learning · LLM systems  
+Liquidity and market microstructure: AMMs, OTC/dark liquidity, issuance mechanics, and institutional market-making
 
-### 🧠 Philosophy
-> *Bridging institutional finance and decentralized networks through compliant innovation.*
+## Operating principle
+> Modernize financial market infrastructure while preserving the controls, transparency, and governance required for institutional adoption.
 
-### 📫 Connect With Me
-🔗 [Linktree – Official DAMA Coin](https://linktr.ee/officialdamacoin)  
-💬 Discord: [Join Our Server](http://discord.gg/VWThUSFr) (We're currently looking for a Ecosystem Community Manager) 
+## Connect
+🔗 Linktree: https://linktr.ee/officialdamacoin  
+💬 Discord: http://discord.gg/VWThUSFr
 
 ---
-update: refreshed GitHub profile with Cryptobeam & DAMA ecosystem info
-
-<!---
-REDDNoC/REDDNoC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+*Update: refreshed GitHub profile with Cryptobeam & DAMA ecosystem information.*
