@@ -1,32 +1,53 @@
-# Hi, I’m @REDDNoC
+# Daniel Brenes | REDDNoC
 
-## Profile
-Founder and technical lead behind **Cryptobeam** and the **DAMA** ecosystem. My work centers on building regulated-market infrastructure for digital assets—exchange-grade trading systems, institutional payments, and cross-border settlement workflows—with a focus on controls, auditability, and operational resilience.
+Founder & CEO building **CRYPTØBEAM**, **MIOS (Market Intelligent OS)**, and **CRYPTØBEAM-PCST**.
 
 ## Current work
-- **Institutional exchange architecture**: performance-oriented backend services, market connectivity, and production-grade operational tooling for a multi-venue digital asset marketplace.
-- **DAMA Protocol**: an **ISO 20022–aligned** digital asset protocol designed for interoperability, compliance-by-design, and post-quantum forward security.
-- **Settlement and tokenized market infrastructure**: cross-chain messaging and asset portability, with an emphasis on risk management, transparency, and verifiable recordkeeping.
 
-## Technical focus areas
-- Low-latency backend systems and event-driven architectures for trading and settlement
-- Market connectivity and integration: **FIX**, REST, WebSocket; venue connectivity patterns and reliability engineering
-- Compliance-grade ledgering and observability: audit trails, policy enforcement, and reporting primitives
-- Partner integrations: **Plaid**, sponsor banking (e.g., **Customers Bank**), **Fireblocks**, **Chainalysis**, **Auth0**
+### CRYPTØBEAM
+Compliance-first digital asset marketplace infrastructure.
 
-## Interests
-Market infrastructure · Payments and settlement · Tokenized markets · ISO 20022 messaging · Interoperability · Risk and controls · Quantitative trading systems · AI/LLM-assisted operations
+Current Phase 1 architecture is **provider-led**: third-party providers perform regulated or asset-handling functions such as custody, identity/KYC, execution, and settlement. CRYPTØBEAM focuses on orchestration, integrations, workflow controls, auditability, reconciliation, and the customer/operator experience.
 
-## Currently developing expertise
-Python · Data engineering · Machine learning · LLM systems  
-Liquidity and market microstructure: AMMs, OTC/dark liquidity, issuance mechanics, and institutional market-making
+Core engineering direction:
+- Java + Spring Boot microservices
+- OpenHFT / Chronicle event backbone
+- append-only audit trails and deterministic reconciliation
+- provider integrations behind explicit service boundaries
+- security, observability, policy enforcement, and operational controls
 
-## Operating principle
-> Modernize financial market infrastructure while preserving the controls, transparency, and governance required for institutional adoption.
+### CRYPTØBEAM-PCST
+**Post-Quantum Proof-Carrying State Transport** — a new protocol research/codebase focused on self-authenticating state transport, fail-closed verification, capability containment, delegation safety, and post-quantum cryptographic agility.
 
-## Connect
-🔗 Linktree: https://linktr.ee/officialdamacoin  
-💬 Discord: http://discord.gg/VWThUSFr
+PCST is **not** a rename or continuation of the older DAMA/Damaverse utility work. DAMA/Damaverse repositories are separate historical projects/evidence unless explicitly incorporated through reviewed, documented migration.
+
+Current research direction includes:
+- proof-carrying state envelopes
+- explicit protocol invariants and threat models
+- ML-KEM / ML-DSA-aligned post-quantum suites
+- non-normative rail mappings, including XRPL research
+- transport abstractions spanning terrestrial and delay/disruption-tolerant links
+
+### MIOS
+**Market Intelligent OS** — a separate private research and intelligence platform focused on market analysis, decision support, and AI-assisted workflows.
+
+## Engineering principles
+
+- Evidence before claims
+- Runtime validation over compile-only confidence
+- Fail closed at trust and policy boundaries
+- No hardcoded secrets; environment/vault-backed configuration
+- Strong reconciliation, provenance, observability, and auditability
+- Historical repositories are evidence sources, not automatically canonical implementations
+
+## Current repository posture
+
+The CRYPTØBEAM repository estate is undergoing evidence-first recovery and consolidation. Older repositories may contain incomplete, experimental, deprecated, or conflicting implementations. Canonical status should be established from current recovery records and verified runtime evidence rather than repository age or naming alone.
+
+## Areas of focus
+
+Digital asset infrastructure · Fintech controls · Distributed systems · Event-driven architecture · Post-quantum cryptography · Protocol security · Market intelligence · AI-assisted software engineering
 
 ---
-*Update: refreshed GitHub profile with Cryptobeam & DAMA ecosystem information.*
+
+**REDDNoC** is my engineering handle. Public repository text describes technical direction and architecture; it should not be read as a claim of regulatory approval, licensure, direct custody, or direct exchange operation.
